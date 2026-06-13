@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class pfv{
 
     static int ROWS = 5;
     static int COLS = 5;
